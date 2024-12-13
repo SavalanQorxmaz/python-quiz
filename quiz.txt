@@ -1,0 +1,56 @@
+1. True or False: Indentation in Python is for readability only.
+a) True
+b) False    [+]
+
+2. Which character is used to define a Python comment:
+a) '
+b) //
+c) #    [+]
+d) /*
+
+3. What is a correct way to declare a Python variable?
+a) var x = 5  
+b) #x = 5
+c) $x = 5
+d) x = 5    [+]
+
+4. Which is NOT a legal variable name?
+a) my-var = 20  [+]
+b) my_var = 20
+c) Myvar = 20
+d) _myvar = 20
+
+5. What is a correct syntax to add the value 'Hello World', to 3 variables in one statement?
+a) x, y, z = 'Hello World'
+b) x = y = z = 'Hello World'    [+]
+c) x|y|z = 'Hello World'
+
+6. If x = 5, what is a correct syntax for printing the data type of the variable x?
+a) print(dtype(x))
+b) print(type(x))   [+]
+c) print(x.dtype())
+
+7. Which is NOT a legal numeric data type in Python:
+a) int
+b) long     [+]
+c) float
+
+8. What will be the result of the following code:
+   print(int(35.88))
+a) 35   [+]
+b) 35.88
+c) 36
+
+9. What will be the result of the following code:
+   x = 'Welcome'
+   print(x[3])
+a) Wel
+b) c    [+]
+c) Welcome Welcome Welcome
+
+10. What will be the result of the following syntax:
+   mylist = ['apple', 'banana', 'cherry']
+   print(mylist[1])
+a) apple
+b) banana   [+]
+c) cherry
